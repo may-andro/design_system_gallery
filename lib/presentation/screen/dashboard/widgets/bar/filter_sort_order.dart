@@ -1,0 +1,1 @@
+enum FilterSortOrder { asc, desc }
